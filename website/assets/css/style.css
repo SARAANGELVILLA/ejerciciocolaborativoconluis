@@ -1,3 +1,51 @@
-body{
-    background: #BDBDBD;
+#img1 {
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    float: right;
+    margin-top: -16rem;
+}
+
+#img2 {
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+
+}
+
+
+#text-1 {
+    font-size: 20px;
+    /* float: left; */
+}
+
+.one {
+    font-size: 30px;
+}
+
+.two {
+    font-size: 30px;
+    color: #BDBDBD;
+}
+
+#text-3 {
+    font-size: 20px;
+    margin-left: 30rem;
+    margin-top: -20rem;
+}
+
+.one-1 {
+    font-size: 30px;
+}
+
+.two-2 {
+    font-size: 30px;
+    color: #BDBDBD;
+}
+
+.all-cards {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
 }
