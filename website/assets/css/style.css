@@ -3,7 +3,7 @@
     height: 400px;
     border-radius: 100%;
     float: right;
-    margin-top: -16rem;
+    margin-top: -17rem;
 }
 
 #img2 {
@@ -16,6 +16,7 @@
 
 #text-1 {
     font-size: 20px;
+    margin-top: 10rem;
     /* float: left; */
 }
 
